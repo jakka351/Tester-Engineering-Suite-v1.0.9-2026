@@ -1,6 +1,6 @@
 <a href="https://tester.engineering"><img width="1838" height="366" alt="slogan" src="https://github.com/user-attachments/assets/a3c9510c-fd99-4f5f-a99e-0c6c0579e5b1" /></a>
 
-<a href="https://tester.engineering"><img width="75%" height="75%" alt="TesterPresent_Brochure_Animated" src="https://github.com/user-attachments/assets/b7ee4472-47d8-423e-b866-e558de348752" />
+<a href="https://tester.engineering"><img width="75%" height="75%" align="center" alt="TesterPresent_Brochure_Animated" src="https://github.com/user-attachments/assets/b7ee4472-47d8-423e-b866-e558de348752" />
 </a>
 
 <a href="https://tester.engineering"><img width="1837" height="261" alt="URL" src="https://github.com/user-attachments/assets/1a3a8a9b-ee18-4c32-8e8d-de3034a7288c" /></a>
